@@ -2,7 +2,7 @@
 Sistema de gerenciamente e abertura de chamados.
 <br>
 
-Projeto inicial de fac para cadastro de pessoas e abertura de chamados.
+Projeto inicial de fac para cadastro de pessoas e abertura de chamados. Nesse modelo estou testando algumas formas de se fazer um crud, usando da lista e paginação e marcação de status.
 
 
 
